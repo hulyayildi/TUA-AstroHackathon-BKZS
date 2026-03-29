@@ -1,7 +1,7 @@
 # BKZS | GNSS Sinyal Doğrulama ve Anti-Spoofing Arayüzü 🛰️🛡️
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit.io/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://tua-astrohackathon-bkzs-8qcnnkff2slgtpdbgz9hgp.streamlit.app/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Bu proje, **TUA AstroHackathon** kapsamında geliştirilmiş bir GNSS (Küresel Navigasyon Uydu Sistemi) sinyal doğrulama ve siber tehdit anomali tespiti sistemidir.
@@ -13,7 +13,7 @@ Tamamen bağımsız bir **SIEM (Güvenlik Bilgi ve Olay Yönetimi)** tarzı web 
 ## 🌐 Canlı Demo
 Projeyi bilgisayarınıza kurmadan, doğrudan web tarayıcınız üzerinden test etmek için aşağıdaki bağlantıya tıklayabilirsiniz:
 
-👉 **[Uygulamayı Canlı Olarak Test Etmek İçin Tıklayın]([https://tua-astrohackathon.streamlit.app/](https://tua-astrohackathon-bkzs-8qcnnkff2slgtpdbgz9hgp.streamlit.app/))** *(Not: Linki kendi Streamlit Cloud adresinizle güncelleyebilirsiniz)*
+👉 **[Uygulamayı Canlı Olarak Test Etmek İçin Tıklayın](https://tua-astrohackathon-bkzs-8qcnnkff2slgtpdbgz9hgp.streamlit.app/)**
 
 ---
 
@@ -26,7 +26,6 @@ Projeyi bilgisayarınıza kurmadan, doğrudan web tarayıcınız üzerinden test
   - **Spoofing Tespiti:** Konum sıçramaları (Teleport) ve ani ivme değişimlerinin aerodinamik analizi.
   - **Jamming Tespiti:** SNR düşüşü üzerinden sinyal boğma tespiti ve akıllı filtreleme.
 - **Otomatik Simülasyon Senaryoları:** Jüri sunumları için tek tuşla rastgele ataklar üreten akıllı simülasyon motoru.
-- **Otomatik Simülasyon Senaryoları:** Jüri sunumları için tek tuşla rastgele ataklar üreten akıllı "Otomatik Simülasyon" motoru.
 - **📋 Adli Bilişim (Forensics):** Siber olayların detaylı dökümünü CSV formatında dışa aktarma.
 
 ---
