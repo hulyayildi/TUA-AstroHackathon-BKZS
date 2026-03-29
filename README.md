@@ -13,7 +13,7 @@ Tamamen bağımsız bir **SIEM (Güvenlik Bilgi ve Olay Yönetimi)** tarzı web 
 ## 🌐 Canlı Demo
 Projeyi bilgisayarınıza kurmadan, doğrudan web tarayıcınız üzerinden test etmek için aşağıdaki bağlantıya tıklayabilirsiniz:
 
-👉 **[Uygulamayı Canlı Olarak Test Etmek İçin Tıklayın](https://tua-astrohackathon.streamlit.app/)** *(Not: Linki kendi Streamlit Cloud adresinizle güncelleyebilirsiniz)*
+👉 **[Uygulamayı Canlı Olarak Test Etmek İçin Tıklayın]([https://tua-astrohackathon.streamlit.app/](https://tua-astrohackathon-bkzs-8qcnnkff2slgtpdbgz9hgp.streamlit.app/))** *(Not: Linki kendi Streamlit Cloud adresinizle güncelleyebilirsiniz)*
 
 ---
 
