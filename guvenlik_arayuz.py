@@ -682,3 +682,9 @@ with log_box:
 # 5. ZAMAN DÖNGÜSÜ (Simülasyon hızı)
 time.sleep(1)
 st.rerun()
+
+
+
+
+
+#deneme satiri
