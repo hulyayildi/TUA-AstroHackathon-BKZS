@@ -685,23 +685,3 @@ st.rerun()
 
 
 
-
-
-#deneme satiri basairili
-
-
-#yeni deneme :)))))))
-
-
-
-#basarilisin kiral.
-
-
-
-
-
-
-#bu da basarili
-
-
-
