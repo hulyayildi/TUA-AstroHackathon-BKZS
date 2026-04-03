@@ -687,4 +687,4 @@ st.rerun()
 
 
 
-#deneme satiri
+#deneme satiri basairili
